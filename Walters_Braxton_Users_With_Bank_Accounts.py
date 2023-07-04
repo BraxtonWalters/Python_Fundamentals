@@ -74,7 +74,7 @@ braxton = User("braxton", "bob@gmail.com")
 robby = User("Robby", "robby@gmail.com")
 
 
-
+print(dir(braxton.accounts))
 
 
 
