@@ -1,6 +1,10 @@
 import Pets
 
 class Ninja:
+    """
+    This is how you init a ninja
+    first_name , last_name , treats , pet_food , pet
+    """
 
     # implement __init__( first_name , last_name , treats , pet_food , pet )
     def __init__(self, first_name, last_name, treats, pet_food, pet_name, pet_type, pet_tricks ):
